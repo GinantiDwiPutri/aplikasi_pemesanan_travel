@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42582137658",
+    "project_id": "aplikasi-pemesanan-travel",
+    "storage_bucket": "aplikasi-pemesanan-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42582137658:android:051c17880a843f74024e03",
+        "android_client_info": {
+          "package_name": "com.ricopahlefi.aplikasi_pemesanan_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42582137658-gvsmve7jtaeucpms8comp0vvvsids1a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ricopahlefi.aplikasi_pemesanan_travel",
+            "certificate_hash": "6eca55adff19e81beffa1db3c4e859882ba5f3a7"
+          }
+        },
+        {
+          "client_id": "42582137658-g8fv8skhsufa7qo6hiq40tsoohm6i4vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB4lPN1ebdOlaq6JbiQOdlpPh1dTU_YhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42582137658-g8fv8skhsufa7qo6hiq40tsoohm6i4vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
